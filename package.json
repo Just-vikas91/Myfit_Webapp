@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "HomePage": "https://just-vikas91.github.io/Myfit_Webapp/",
+  "homepage": "https://just-vikas91.github.io/Myfit_Webapp/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
