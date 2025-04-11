@@ -1,4 +1,3 @@
-import type { LatLng } from 'leaflet';
 
 export interface Exercise {
   id: string;
